@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/gateway/__init__.py
+src/gateway.egg-info/PKG-INFO
+src/gateway.egg-info/SOURCES.txt
+src/gateway.egg-info/dependency_links.txt
+src/gateway.egg-info/top_level.txt
