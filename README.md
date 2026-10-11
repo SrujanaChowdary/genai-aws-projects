@@ -1,0 +1,2 @@
+# genai-aws-projects
+Weekly hands-on projects covering Bedrock, RAG, agents, MCP and guardrails on AWS.
